@@ -130,7 +130,7 @@ span {
 
 @media (min-width: 600px) {
 	body {
-		min-width: 100vw;
+		min-width: 110vw;
 	}
 	
 	div.container {
