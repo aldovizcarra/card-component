@@ -131,7 +131,7 @@ span {
 @media (min-width: 600px) {
 	div.container {
 		flex-direction: row-reverse;
-		width: 48rem;
+		width: 46rem;
 		height: 22rem;
 		margin-top: 150px;
 		border-top-left-radius: 10px;
