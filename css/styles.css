@@ -129,17 +129,12 @@ span {
 }
 
 @media (min-width: 600px) {
-	body {
-		min-width: 110vw;
-	}
-	
 	div.container {
 		flex-direction: row-reverse;
-		width: 46rem;
+		width: 50rem;
 		height: 22rem;
 		margin-top: 150px;
-		border-top-left-radius: 10px;
-		border-bottom-left-radius: 10px;
+		margin-left: 2px;
 	}
 
 	.image-container {
