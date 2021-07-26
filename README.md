@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Card Component Screenshot.png)
+![](images/card-component-screenshot.png)
 
 
 ### Links
