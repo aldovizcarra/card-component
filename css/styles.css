@@ -127,7 +127,7 @@ span {
 	text-decoration: none;
 }
 
-@media (min-width: 700px) {
+@media (min-width: 767px) {
 	div.container {
 		flex-direction: row-reverse;
 		width: 55rem;
