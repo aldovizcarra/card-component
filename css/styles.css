@@ -128,7 +128,7 @@ span {
 	text-decoration: none;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 780px) {
 	body {
 		min-width: 890px;
 	}
