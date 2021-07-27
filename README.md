@@ -47,7 +47,7 @@ First I created the html markup. It took me a couple of trys to finally get a ma
 
 ### What I learned
 
-During this project I have learned how to create better markup. I also learned how use css flexbox.
+During this project I have learned how to create better markup. I also learned how to use css flexbox.
 
 
 ### Continued development
