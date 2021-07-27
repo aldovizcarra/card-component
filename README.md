@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/aldovizcarra/card-component](https://your-solution-url.com)
-- Live Site URL: [https://aldovizcarra.github.io/card-component/](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/aldovizcarra/card-component)
+- Live Site URL: [Live Site](https://aldovizcarra.github.io/card-component/)
 
 ## My process
 
