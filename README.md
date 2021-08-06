@@ -62,5 +62,5 @@ I want to continue learning css flexbox and other aspects of css, like css grid 
 
 ## Author
 
-- Website - [Aldo Vizcarra](https://github.com/aldovizcarra?tab=repositories)
+- Website - [Aldo Vizcarra](https://github.com/aldovizcarra)
 - Frontend Mentor - [@aldovizcarra](https://www.frontendmentor.io/profile/aldovizcarra)
